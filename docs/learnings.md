@@ -39,3 +39,6 @@
 	}
 	```
   - Meant to be passed into our components as static values or methods
+- State Basics
+  - When you change the state, the components `render` function is called automatically which kicks off the shadow dom changes, diff then browser render.
+  - You can affect the state of another object when actioning events on another component
