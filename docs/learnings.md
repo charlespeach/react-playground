@@ -15,4 +15,6 @@
     ```
     const App = () => <h1>Hello const</h1>
     ```
-  
+- Render Method
+  - Is only able to return a single node
+  - 

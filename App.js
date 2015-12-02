@@ -2,7 +2,12 @@ import React from 'react';
 
 class App extends React.Component {
   render(){
-    return <h1>Hello World</h1>
+    return (
+      <div>
+        <h1>Testing node rendering</h1>
+        <b>bold text</b>
+      </div>
+    );
   }
 }
 
