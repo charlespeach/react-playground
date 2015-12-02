@@ -17,4 +17,5 @@
     ```
 - Render Method
   - Is only able to return a single node
-  - 
+- Properties
+  - You can set expected property types via `App.propTypes` and default property values via `App.defaultProps`
